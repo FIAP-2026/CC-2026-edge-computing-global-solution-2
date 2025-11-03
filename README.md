@@ -1,1 +1,8 @@
-# CC-2026-edge-computing-global-solution-2
+﻿# Edge Computing
+
+**Ciclo:** global-solution-2  
+**Semestre:** semestre:s4  
+**Ano:** 2026  
+
+> Repositorio publico criado para a disciplina **Edge Computing** no contexto do ciclo **global-solution-2** (FIAP 2026).
+
